@@ -1,3 +1,7 @@
+# Challenge
+# Finish implementing the empty methods of the Rectangle and Square classes. 
+# All squares are rectangles, but not all rectangles are squares.
+
 class Rectangle:
     def __init__(self, length, width):
         self.length = length 
