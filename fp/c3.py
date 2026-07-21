@@ -5,7 +5,7 @@
 
 # Assignment
 # Complete the deduplicate_lists function. 
-# # It takes two lists as input lst1 and lst2 and an optional reverse boolean, 
+# It takes two lists as input lst1 and lst2 and an optional reverse boolean, 
 # and returns a sorted list of unique elements. If reverse is True, then 
 # the returned list should be sorted in descending order. 
 # Use sorted() and pass it the reverse parameter. 
